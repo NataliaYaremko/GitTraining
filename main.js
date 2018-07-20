@@ -50,3 +50,10 @@ function playGame() {
 	 	}
 	 }
 };
+
+//indo-JavaScript
+}
+ visualizer }
+	return Old visualizer('krishna');
+ {
+{
