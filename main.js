@@ -51,12 +51,9 @@ function playGame() {
 	 }
 };
 
-
-// I writed indo-code
-
+//indo-JavaScript
 }
- boom boom
- }
-	alert('I am indo-code');
+ visualizer }
+	return Old visualizer('krishna');
  {
 {
